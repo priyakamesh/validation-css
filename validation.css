@@ -1,0 +1,20 @@
+h1 {
+	text-align: center;
+}
+#email:valid {
+	background-color: green;
+}
+#email:invalid {
+	background-color: red;
+}
+
+#linkedin:valid {
+	background-color: green;
+}
+#linkedin:invalid {
+	background-color: red;
+}
+
+#submit_button{
+	text-align: center;
+}
